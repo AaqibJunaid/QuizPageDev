@@ -1,2 +1,0 @@
-# QuizPageDev
-Created with CodeSandbox
